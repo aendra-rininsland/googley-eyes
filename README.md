@@ -1,5 +1,6 @@
-Googley Eyes
-============
+# Googley Eyes
+
+## WARNING: This isn't working yet, there is nothing here. This message will be removed once there is!
 
 ## What is it?
 
@@ -62,4 +63,4 @@ the [Calgary Herald](http://www.calgaryherald.com) and started my journalism car
 I also do development and consultancy for [Graphic Alliance](http://www.graphicalliance.co.uk) and [Beauchamp Creative](http://www.beauchampcreative.ca). 
 
 Follow me at [@aendrew on Twitter](http://www.twitter.com/aendrew) or see other
-work I've done at [æaendrew.com](http://www.aendrew.com).
+work I've done at [ændrew.com](http://www.aendrew.com).
